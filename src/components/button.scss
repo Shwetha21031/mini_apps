@@ -1,0 +1,17 @@
+.button{
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: radial-gradient(at bottom left, #4D71E4, #8757E5);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    color: white;
+    font-size: 1em;
+    font-weight: 500;
+    transition: ease 0.2s;
+
+}
+
+.button:hover{
+    scale: 1.03;
+}
